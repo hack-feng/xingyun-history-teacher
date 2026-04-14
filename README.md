@@ -11,6 +11,12 @@
 
 体验地址：https://modelscope.cn/studios/xiaoxiaofeng910/history_teacher/summary
 
+![image-20260414145000410](https://image.xiaoxiaofeng.site/blog/image/image-20260414145000410.png?xiaoxiaofeng)
+
+![image-20260414145142837](https://image.xiaoxiaofeng.site/blog/image/image-20260414145142837.png?xiaoxiaofeng)
+
+![image-20260414145305377](https://image.xiaoxiaofeng.site/blog/image/image-20260414145305377.png?xiaoxiaofeng)
+
 ## 项目简介
 
 历史知识学习平台是一个创新的在线历史教育系统，专为中小学生设计。系统采用先进的具身智能体技术，打造高度拟真的虚拟历史教师，实现真正的实时互动教学。通过集成**魔珐星云数字人SDK**和**豆包大模型API**，系统提供沉浸式的历史学习体验，虚拟教师能够实时讲解历史知识、回答学生问题、追踪学习进度，让历史教育变得更加生动、高效和个性化。
